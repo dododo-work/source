@@ -26,7 +26,7 @@ noindex: true
 主要负责各类定制化营销项目开发, 抽奖、兑换、答题、活动管理系统等及公司自研项目开发.
 
 **项目经历:** 
-- [基于众包的"共享停车服务"软件](https://github.com/thesomeexp/ParkingProject) (在校期间)
+- [基于众包的"共享停车服务"软件](https://github.com/thesomeexp/ParkingProject) (毕设项目)
 **项目介绍**: 平台通过众包方式采集停车场相关数据, 建立停车场拥挤度模型, 提供基于地理位置的停车场查询服务. 
 **主要工作**: 主导整个项目的开发. 前端使用 Vue.js 框架与 Element UI 风格样式, 使用高德地图 API 作可视化交互. 后端主要用 RESTful 风格接口. 登录认证模块使用 Shiro 框架完成基于 JWT 的认证. 地理位置查询模块使用 GeoHash 做停车场坐标存储和查询, 并使用 Redis 缓存查询结果降低数据库压力. 代码风格遵循《阿里巴巴开发手册规范》开发, 参照《高性能 MySQL》对 SQL 语句做了优化. 
 - [资金管理平台](https://someexp.com/resume)

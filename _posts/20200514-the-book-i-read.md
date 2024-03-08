@@ -11,6 +11,10 @@ urlname: the-book-i-read
 非计算机相关的书单. 计算机类的书单请请看[这里这里](/post/books-about-computer-science). 
 <!--more-->
 
+**2024:**
+
+[你的第一本保险指南(槽叔) 笔记](/books/9787508693156)
+
 **2023:**
 
 **皮肤的秘密**

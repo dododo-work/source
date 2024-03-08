@@ -6,6 +6,7 @@ tags:
   - Blog
 urlname: domain-deactivation
 original: true
+noindex: true
 ---
 2025年博客将停止使用 someexp.com 域名.
 <!--more-->

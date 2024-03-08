@@ -1,5 +1,6 @@
 ---
 title: 成长自传
+noindex: true
 ---
 
 **小学**

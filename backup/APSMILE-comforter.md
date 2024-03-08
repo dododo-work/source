@@ -1,5 +1,6 @@
 ---
 title: APSMILE Heavyweight Feathers Down Comforter
+noindex: true
 ---
 
 APSMILE 羽绒被
@@ -10,8 +11,6 @@ Size: Twin
 Optimum warmth
 
 Amazon 产品页:
-![](/picture/photo_2021-11-27_16-42-35.jpg)
-
 标签1:
 ![](/picture/photo_2021-11-27_16-42-06.jpg)
 

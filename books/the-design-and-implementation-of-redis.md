@@ -388,7 +388,8 @@ ZADD hackers 1912 "Alan Turing"
 ZRANGE hackers 2 4 => 1) "Claude Shannon", 2) "Alan Kay", 3) "Richard Stallman"
 ~~~
 
-> Simple strings, sets and sorted sets already get a lot done but there is one more data type Redis can handle: Hashes.
+~~~
+Simple strings, sets and sorted sets already get a lot done but there is one more data type Redis can handle: Hashes.
 Hashes are maps between string fields and string values, so they are the perfect data type to represent objects (eg: A User with a number of fields like name, surname, age, and so forth):
     HSET user:1000 name "John Smith"
     HSET user:1000 email "john.smith@example.com"
@@ -399,6 +400,7 @@ You can also set multiple fields at once:
     HMSET user:1001 name "Mary Jones" password "hidden" email "mjones@example.com"
 If you only need a single field value that is possible as well:
     HGET user:1001 name => "Mary Jones"
+~~~
 
 简单的 string, set 和 sorted set 已经完成了很多工作, 但还有一种数据类型 Redis 可以处理: hash.
 

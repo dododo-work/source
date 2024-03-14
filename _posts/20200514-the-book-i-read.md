@@ -13,6 +13,8 @@ urlname: the-book-i-read
 
 **2024:**
 
+[色彩设计的原理 笔记](/books/color-basic-design)
+
 [你的第一本保险指南(槽叔) 笔记](/books/9787508693156)
 
 **2023:**
